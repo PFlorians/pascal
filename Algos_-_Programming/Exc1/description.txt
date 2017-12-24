@@ -1,0 +1,1 @@
+This just contains basic excercises in pascal Using FrePascalIDE
